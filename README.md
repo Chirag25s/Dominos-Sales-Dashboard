@@ -4,7 +4,7 @@ Thank you for taking the time to explore my work! Your valuable time means a lot
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/chirag2501/) or visit my [Portfolio](https://mavenanalytics.io/profile/chirag25s). You can also reach out to me via email at [c.sharma251201@gmail.com](https://mail.google.com/mail/u/1/?ogbl#inbox?compose=DmwnWtVcJrrhwBNnwDXdxfjPvCRRxhhcpQrRRNmQGTvwgrMJmmcpPfBFvThWBQJbrJrXkXPLhZjb) if you're looking to hire a **Data Analyst** who is passionate about turning data into actionable insights. 
 
-![Domino's Pizza Sales Analysis Dashboard](https://github.com/Chirag25s/Dominos-Sales-Dashboard/blob/main/Screenshot%202025-02-03%20222116.png)
+![Domino's Pizza Sales Analysis Dashboard](https://github.com/Chirag25s/Dominos-Sales-Dashboard/blob/main/Screenshot%202025-07-21%20145728.png)
 
 ## About the Project
 This project focuses on analyzing Domino's Pizza sales data and delivering insights that empower businesses to make data-driven decisions. From identifying sales trends to pinpointing customer preferences, this dashboard provides an all-in-one solution for actionable intelligence.
